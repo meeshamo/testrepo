@@ -1,9 +1,9 @@
 {
   "questions": [
-    {
+    [
       "id": "A woman was C. She was arrested.",
       "answer": true
-    }
+    ]
   ],
   "profile": {
     "name": "typicode"
