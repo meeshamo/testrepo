@@ -1,18 +1,11 @@
- [ 
-  [
-  "Tuesday didn't exist on calendars until 1955. ",
-  false
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
-  [
-  "Winnie the Pooh was originally named \"Winnie the Pee\". (thanks to Eric Snyder) ",
-  false
-  ],
-  [
-  "Manatees possess vocal chords which give them eound. ",
-  false
-  ],
-  [
-  "Prior to statehood, North Carolina was called South Virginia. ",
-  false
-  ]
-]
+  "profile": {
+    "name": "typicode"
+  }
+}
