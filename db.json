@@ -1,5 +1,5 @@
-[
-  "posts": [
+{
+  "questions": [
     {
       "id": "A woman was C. She was arrested and handcuffed; eating is prohibited in Metro stations.",
       "answer": true
@@ -8,4 +8,4 @@
   "profile": {
     "name": "typicode"
   }
-[
+}
