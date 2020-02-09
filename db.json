@@ -1,4 +1,11 @@
-[
-"A woman was C. She was arrested and handcuffed; eating is prohibited in Metro stations.",
-true
-]
+{
+  "posts": [
+    {
+      "id": "A woman was C. She was arrested and handcuffed; eating is prohibited in Metro stations.",
+      "answer": true
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
