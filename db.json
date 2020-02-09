@@ -1,24 +1,67 @@
 {
   "questions": [
     [
-       "Question 1",
+       "Trump was the first black president ",
+       false
+    ],
+    [
+       "The first African American Major League Baseball player was Jackie Robinson ",
        true
     ],
      [
-       "Question 2",
+       "Malcolm X was killed in downtown Boston",
        false
-    ], [
-       "Question 3",
-       true
-    ], [
-       "Question 4 ",
-       true
-    ], [
-       "Question 5 ",
+    ], 
+    [
+       "The first sit in at a segrated lunch counter was in Jackson Mississippi ",
        false
-    ], [
-       "Question 6",
+    ], 
+    [
+       "The highest slave population in the U.S. was about 4 million ",
        true
-    ]
+    ], 
+    [
+       "Thurgood Marshall was the first African American to serve as a US Supreme Court Justice ",
+       true
+    ], 
+    [
+       "W.E.B. Du Bois was the only African American among the original NAACP executives ",
+       true
+    ], 
+    [
+       "The Dred Scott decision gave Congress the right to regulate slavery in the territories ",
+       false
+    ],  
+    [
+       "No African American ever earned the Medal of Honor for heroism in the Civil War ",
+       false
+    ], 
+    [
+       "In New York State, before the Civil War, a free black man could vote if he owned $250 worth of property ",
+       true
+    ], 
+    [
+       "Slaves in early America could be bought and sold at the discretion of their masters ",
+       true
+    ],
+    [
+       "In 1860 a year before the start of the civil war, there were about 4 million slaves in the south",
+       true
+    ], 
+    [
+       "There were no African American newspapers before the Civil War",
+       false
+    ],
+    [
+       "After the US Constitution was adopted in 1787, the first Congress barred African Americans from becoming naturalized citizens",
+       true
+    ],
+    [
+       "In the antebellum South, free blacks did not enjoy the right of trial by jury",
+       true
+    ], 
+    [
+       "There were no African American newspapers before the Civil War",
+       false
     ]
 }
