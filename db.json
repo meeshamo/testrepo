@@ -1,14 +1,11 @@
- [
-  [
-  "La Paz, Bolivia has an average annual temperature below 50 degrees Fahrenheit. However, it has never recorded a zero-degree temperature. Same for Stanley, Falkland Islands and Punta Arenas, Chile.",
-  true
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
-  [
-  "The entire town of Capena, Italy (including children as young as 2 years old) lights up cigarettes each year in honor of St. Anthony's Day. This tradition is centuries old.",
-  true
-  ],
-  [
-  "A woman was chewing what was left of her chocolate bar when she entered a Metro station in Washington DC. She was arrested and handcuffed; eating is prohibited in Metro stations.",
-  true
-  ]
-]
+  "profile": {
+    "name": "typicode"
+  }
+}
